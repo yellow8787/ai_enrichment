@@ -1,0 +1,16 @@
+# Screenshots
+screenshots/
+
+# Output files
+high_performing_sellers.csv
+enriched_*.csv
+*_gmv.csv
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# OS
+.DS_Store
+Thumbs.db
